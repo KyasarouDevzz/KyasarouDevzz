@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KyasarouDevzz
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Ursina
-- 💞️ I’m looking to collaborate on a game called gattopollo
+- 🌱 I’m currently not learning anything
+- 💞️ I’m looking to collaborate on VDPAD
 
 <!---
 KyasarouDevzz/KyasarouDevzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
